@@ -141,7 +141,8 @@ Affiche les actions critiques :
 ## ⭐ 5. Demo 
 
 
-<img width="1395" height="977" alt="Screenshot 2025-12-09 015247" src="https://github.com/user-attachments/assets/40d3b3a8-d928-4a4d-818a-6aed88b7b944" />
+
+<img width="1395" height="977" alt="Screenshot 2025-12-09 015247" src="https://github.com/user-attachments/assets/74c98e19-cf86-4df9-9819-544b500841e2" />
 
 
 
